@@ -94,7 +94,7 @@
         </nav>
         contents
         <p>sdsd</p>
-        <p>Sergio</p>
+        <p>Sergio Palagonny</p>
         @yield('content')
     </div>
 
