@@ -93,6 +93,7 @@
             </div>
         </nav>
         contents
+        <p>sdsd</p>
         @yield('content')
     </div>
 
